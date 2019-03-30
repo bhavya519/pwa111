@@ -1,0 +1,42 @@
+body{
+  background:#EDE34D;
+}
+h1{
+  text-align:center;
+  background:#C38DF5;
+  background: #01FAEF;
+}
+img{
+  text-align:right;
+  float:right;
+  width:40%;
+  height:40%;
+
+}
+a{
+  float:right;
+}
+.child{
+  width:20%;
+  /* height:50%; */
+  padding:1%;
+  margin:1%;
+  text-align:center;
+  background:#72F940;
+  border:2px solid #fff;
+  display:block;
+  justify-content:space-around;
+
+}
+
+.child img{
+  width:230px;
+  height:200px;
+  /* margin-bottom:5%; */
+}
+.link{
+  /* text-decoration=none; */
+  color:red;
+  /* margin-bottom:5%; */
+  text-align:center;
+}
